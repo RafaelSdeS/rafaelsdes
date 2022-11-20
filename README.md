@@ -12,7 +12,7 @@ I'm Rafael Silva de Souza, nice to meet you. If you want to know more about me, 
 - 💬 Ask me about if I can ask you
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: I'm just 17 yo
-- 📫<a href=  rafaelsdes.github.io/personalsite/> My personal site (in portuguese)
+- 📫<a href= rafaelsdes.github.io/PersonalSite/ /> My personal site (in portuguese)
 
 ##
 
