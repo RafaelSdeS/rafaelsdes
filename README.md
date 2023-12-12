@@ -5,13 +5,11 @@
 
 I'm Rafael Silva de Souza, nice to meet you. If you want to know more about me, just look here ⬇
 
-- 🔭 I’m currently looking for work opportunities in Front-end
-- 🌱 I’m currently learning HTML, CSS, JS, React and Node
+- 🔭 I’m currently looking for entry-level opportunities 
+- 🌱 I’m currently learning React, Node, SQL and Java
 - 👯 I’m looking to collaborate = !!!
 - 🤔 I’m looking for help with EVERYTHING !
 - 💬 Ask me about.. idk, just ask it
-- 😄 Pronouns: He, him
-- ⚡ Fun fact: I'm just 18 yo
 - 📫<a href= rafaelsdes.github.io/PersonalSite/ /> My personal site (in portuguese)
 
 ##
