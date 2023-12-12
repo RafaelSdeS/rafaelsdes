@@ -7,7 +7,7 @@ I'm Rafael Silva de Souza, nice to meet you. If you want to know more about me, 
 
 - 🔭 I’m currently looking for entry-level opportunities 
 - 🌱 I’m currently learning React, Node, SQL and Java
-- 👯 I’m looking to collaborate = !!!
+- 👯 I’m looking to collaborate
 - 🤔 I’m looking for help with EVERYTHING !
 - 💬 Ask me about.. idk, just ask it
 - 📫<a href= rafaelsdes.github.io/PersonalSite/ /> My personal site (in portuguese)
