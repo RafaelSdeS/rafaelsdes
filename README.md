@@ -1,4 +1,4 @@
-### Hello there 👋 , what's up ?
+### 👋 Hello there, what's up ?
 
   ##
 
