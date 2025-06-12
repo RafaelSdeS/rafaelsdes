@@ -1,13 +1,6 @@
-### 👋 Hello there, what's up ?<br>
+### 👋 Hello there !!<br>
 ##
-I'm Rafael Silva de Souza, nice to meet you. If you want to know more about me, just look here ⬇
-
-- 🔭 I’m currently looking for entry-level opportunities 
-- 🌱 I’m currently learning React, Node, Java and MySQL
-- 👯 I’m looking to collaborate
-- 🤔 I’m looking for help with EVERYTHING !
-- 💬 Ask me about... idk, just ask it
-- 📫<a href= rafaelsdes.github.io/PersonalSite/ /> My personal site (in portuguese)
+I'm Rafael, nice to meet you. If you want to know more about me, just look here ⬇
 
 ##
 
@@ -26,8 +19,6 @@ I'm Rafael Silva de Souza, nice to meet you. If you want to know more about me, 
   <img align="center" alt="React" height="40" width="40" src="https://reactnative.dev/img/header_logo.svg">
   <img align="center" alt="Tailwind" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
   <img align="center" alt="Node" height="40" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Next" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
-  <img align="center" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Firebase" height="40" width="40"   src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
