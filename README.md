@@ -38,5 +38,5 @@ I'm interested in **Machine Learning**, **Quantitative Finance**, **High-Perform
 
 ## Connect with Me
 
-- GitHub: *github.com/RafaelSdeS*
+- GitHub: *[github.com/RafaelSdeS](https://github.com/RafaelSdeS)*
 - LinkedIn: *https://www.linkedin.com/in/rafael-silva-de-souza/*
