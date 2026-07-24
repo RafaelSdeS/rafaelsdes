@@ -27,7 +27,6 @@ I'm interested in **Machine Learning**, **Quantitative Finance**, **High-Perform
 <p align="center">
   <img alt="Python" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="C" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="CUDA" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cuda/cuda-original.svg">
   <img alt="TypeScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img alt="React" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Node.js" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
